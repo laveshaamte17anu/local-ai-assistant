@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Logs & Temp
+*.log
+*.webm
+*.wav
+*.mp3
+.env
+
+# OS
+.DS_Store
+Thumbs.db
